@@ -8,5 +8,6 @@ npm start
 ```
 
 ## Available Scripts
-[Digram](./public/diagrams.svg)
+![alt text](./public/Diagram1.png)
+
 
