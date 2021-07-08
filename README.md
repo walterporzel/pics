@@ -8,5 +8,5 @@ npm start
 ```
 
 ## Available Scripts
-[Digram](./public/diagrams.xml)
+[Digram](./public/diagrams.svg)
 
