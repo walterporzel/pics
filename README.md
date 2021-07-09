@@ -2,6 +2,8 @@
 
 This is a simple application that allows a user to search for images using a keyword, connects to the [unsplash api](https://unsplash.com/developers) to retrieve images, and then tiles the responses in an aestetically pleasing manner.
 
+![App](./public/AppView.png)
+
 The search bar component contains good reference cases for event handling. The image list contains good reference cases for rendering lists and the React refs system used for referencing the DOM.
 
 To start the project locally:
